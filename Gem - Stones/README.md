@@ -85,3 +85,5 @@ Print the number of types of gemstones in John's collection. If there are none, 
             scanner.close();
         }
     }
+
+[Back to Home](https://github.com/akksshah/Hackerrank-Codes)
